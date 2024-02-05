@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class Main {
     public static int summation(int n) {
         int i = 1;
